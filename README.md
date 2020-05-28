@@ -1,5 +1,5 @@
 ## resource packs:
-- (rs3)[https://github.com/sgfost/runelite-textures/raw/master/rs3/release/rs3-textures.zip]
+- [rs3](https://github.com/sgfost/runelite-textures/raw/master/rs3/release/rs3-textures.zip)
 
 ## usage:
 - install `resource-packs` from plugin hub
