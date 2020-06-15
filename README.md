@@ -8,7 +8,7 @@ Packs for use with [melkypie's](https://github.com/melkypie) [resource-packs plu
   - ex: `/home/me/.runelite/resources/rs3-textures`
 
 ## Available resource packs:
-- [rs3 inspired](https://github.com/sgfost/runelite-textures/raw/master/rs3/release/rs3-textures.zip)
+- [rs3 inspired](https://github.com/sgfost/runelite-textures/raw/master/rs3/release/rs3-textures.zip) (this is more or less abandoned feel free to make any additions etc.)
   * currently only supports resizeable mode, if you want fixed, let me know, otherwise I'll get around to it eventually
 
 # screenshots
