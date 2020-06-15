@@ -11,14 +11,9 @@ Packs for use with [melkypie's](https://github.com/melkypie) [resource-packs plu
 - [rs3 inspired](https://github.com/sgfost/runelite-textures/raw/master/rs3/release/rs3-textures.zip)
   * currently only supports resizeable mode, if you want fixed, let me know, otherwise I'll get around to it eventually
 
-<<<<<<< HEAD
 # screenshots
 
 ## rs3
-=======
-# Screenshots
-## rs3 inspired
->>>>>>> d676ab41b5a9605551957d75438818917bce3900
 ![image](https://raw.githubusercontent.com/sgfost/runelite-textures/master/rs3/screenshots/full%2Binv.png)
 ![image](https://raw.githubusercontent.com/sgfost/runelite-textures/master/rs3/screenshots/stats.png)
 ![image](https://raw.githubusercontent.com/sgfost/runelite-textures/master/rs3/screenshots/bank.png)
