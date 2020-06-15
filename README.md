@@ -9,7 +9,7 @@
 
 
 
-# Screenshots
+# screenshots
 
 ## rs3
 ![image](https://raw.githubusercontent.com/sgfost/runelite-textures/master/rs3/screenshots/full%2Binv.png)
